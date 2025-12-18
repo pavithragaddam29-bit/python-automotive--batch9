@@ -1,0 +1,6 @@
+print(" largest of three numbers")
+num1=float(input(" enter 1st number "))
+num2 =float(input(" enter 2nd munber"))
+num3=float(input(" entr 3rd number"))
+largest_num=max(num1,num2,num3)
+print(" the largest number",largest_num)
