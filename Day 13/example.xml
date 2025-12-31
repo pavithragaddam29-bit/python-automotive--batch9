@@ -1,0 +1,14 @@
+<medical_data>
+    <patient>
+        <name>John Doe</name>
+        <issue>Diabetes</issue>
+    </patient>
+    <patient>
+        <name>Jane Doe</name>
+        <issue>Hypertension</issue>
+    </patient>
+    <patient>
+        <name>Bob Smith</name>
+        <issue>Asthma</issue>
+    </patient>
+</medical_data>
