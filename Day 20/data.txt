@@ -1,0 +1,5 @@
+vehicle_name=Car
+mileage=22
+fuel_consumption=5
+fuel_type=Petrol
+engine_capacity=1200

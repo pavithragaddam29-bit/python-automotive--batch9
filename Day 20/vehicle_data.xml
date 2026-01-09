@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<vehicle>
+<vehicle_name>Car</vehicle_name>
+<mileage>22</mileage>
+<fuel_consumption>5</fuel_consumption>
+<fuel_type>Petrol</fuel_type><engine_capacity>1200</engine_capacity></vehicle>
