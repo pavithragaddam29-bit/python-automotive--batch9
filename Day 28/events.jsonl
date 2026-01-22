@@ -1,0 +1,7 @@
+{"timestamp": 1010, "event": "SPEED_JUMP", "rate": 200.0}
+{"timestamp": 1010, "event": "STEERING_RATE_EXCEEDED", "rate": 1280.0}
+{"timestamp": 1020, "event": "SPEED_JUMP", "rate": 723.0}
+{"timestamp": 1020, "event": "STEERING_RATE_EXCEEDED", "rate": 1280.0}
+{"timestamp": 1020, "event": "RPM_OUT_OF_RANGE", "rpm": 34464}
+{"timestamp": 1030, "event": "SPEED_JUMP", "rate": 623.0}
+{"timestamp": 1030, "event": "STEERING_RATE_EXCEEDED", "rate": 1280.0}
